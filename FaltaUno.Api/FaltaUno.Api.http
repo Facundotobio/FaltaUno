@@ -1,0 +1,6 @@
+@FaltaUno.Api_HostAddress = http://localhost:5120
+
+GET {{FaltaUno.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
